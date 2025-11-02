@@ -1,8 +1,5 @@
 # Converso – AI-Powered Learning Companion
 
-Check out the live app hosted on Vercel:  
-[https://vercel.com/nishmikas-projects/saas-app-nextjs](https://vercel.com/nishmikas-projects/saas-app-nextjs)
-
 Converso is a powerful **AI learning platform** where users can create custom companions and engage in interactive learning conversations. It’s built with modern tools like **Next.js**, **Supabase**, **Clerk**, **TypeScript**, **Tailwind CSS**, and **shadcn/ui**.
 
 ![Converso Screenshot](./public/images/demo3.png)
